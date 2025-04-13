@@ -24,7 +24,6 @@ Error Handling: Client-side & Server-side validation
 # Screenshots
 ![Image](https://github.com/user-attachments/assets/4ed90ef4-1fcf-4a92-8cc6-6ea8b59ad8fa)
 ![Image](https://github.com/user-attachments/assets/c01b3660-6882-47b0-a037-c11d8c5b7c15)
-![Image](https://github.com/user-attachments/assets/f1f9bf42-01ec-464b-90ee-272aa841a44b)
 
 
 
