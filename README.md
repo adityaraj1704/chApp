@@ -3,8 +3,7 @@
 
 chApp project is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.io for instant communication. It features a modern UI designed with TailwindCSS and Daisy UI, ensuring a sleek and responsive user experience. 
 
-## Demo
-https://chapp-po2z.onrender.com
+## You can visit site here - https://chapp-po2z.onrender.com
 
 # Tech Stack
 
